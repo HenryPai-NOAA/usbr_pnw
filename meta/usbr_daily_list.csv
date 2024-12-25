@@ -1,0 +1,140 @@
+usbr_id,USBR_PE,tz,obs_desc,site_desc
+ABEI,PP,M,"PRECIP, PP",Aberdeen
+AGA,AF,P,Reservoir Storage - Acre-Feet,"Agate Dam and Reservoir near Medford, OR"
+AGA,CH,P,Feeder Canal Gage Height - Feet,"Agate Dam and Reservoir near Medford, OR"
+AGA,FB,P,Forebay Elevation - Feet,"Agate Dam and Reservoir near Medford, OR"
+AGA,GH,P,Gauge Height - Outlet Works Stilling Basin - Feet,"Agate Dam and Reservoir near Medford, OR"
+AGA,OB,P,Air Temperature - Deg. F,"Agate Dam and Reservoir near Medford, OR"
+AGA,PC,P,"Precipitation, Cumulative (Inches) (Tipping Bucket)","Agate Dam and Reservoir near Medford, OR"
+AGA,QC,P,Feed Canal Inflow to Agate Reservoir,"Agate Dam and Reservoir near Medford, OR"
+AGA,Q,P,Total Discharge - cfs,"Agate Dam and Reservoir near Medford, OR"
+ARKI,QD,M,Discharge -CFS,
+BNK,QP,P,Flow-Pumped  -  kcfs,
+BUM,AF,P,Reservoir Storage - Acre-Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,AF,P,Reservoir Storage - Acre-Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,FB,P,Forebay Elevation - Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,FB,P,Forebay Elevation - Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,GH,P,Gauge Height - Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,GH,P,Gauge Height - Feet,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,OB,P,Air Temperature - Deg. F,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,OB,P,Air Temperature - Deg. F,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)",BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)",BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,Q,P,Discharge - CFS,BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM,Q,P,Discharge - CFS,BUMPING RESERVOIR RIVER AND WEATHER STATION
+CLE,AF,P,Reservoir Storage - Acre-Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,AF,P,Reservoir Storage - Acre-Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,FB,P,Forebay Elevation - Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,FB,P,Forebay Elevation - Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,GH,P,Gauge Height - Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,GH,P,Gauge Height - Feet,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,OB,P,Air Temperature - Deg. F,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,OB,P,Air Temperature - Deg. F,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,Q,P,Discharge - CFS,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLE,Q,P,Discharge - CFS,"CLE ELUM RESERVOIR,RIVER AND WEATHER STATION"
+CLS,AF,P,Reservoir Storage - Acre-Feet,"Cold Springs Dam near Hermiston, OR"
+CLS,FB,P,Forebay Elevation - Feet,"Cold Springs Dam near Hermiston, OR"
+CRA,AF,P,Reservoir Storage - Acre-Feet,"Crane Prairie Reservoir nr. LaPine, OR"
+CRA,FB,P,Forebay Elevation - Feet,"Crane Prairie Reservoir nr. LaPine, OR"
+EMI,AF,P,Reservoir Storage - Acre-Feet,"Emigrant Dam and Lake near Ashland, OR"
+EMI,CH,P,Canal Gauge Height (feet),"Emigrant Dam and Lake near Ashland, OR"
+EMI,FB,P,Forebay Elevation - Feet,"Emigrant Dam and Lake near Ashland, OR"
+EMI,GH,P,Gauge Height - Feet,"Emigrant Dam and Lake near Ashland, OR"
+EMI,OB,P,Air Temperature - Deg. F,"Emigrant Dam and Lake near Ashland, OR"
+EMI,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER) (12""Belfort)","Emigrant Dam and Lake near Ashland, OR"
+EMI,QC,P,East Lateral Canal Flow - CFS,"Emigrant Dam and Lake near Ashland, OR"
+EMI,Q,P,Discharge (River + Spillway) CFS,"Emigrant Dam and Lake near Ashland, OR"
+GDMM,OB,M,Air Temperature - Deg. F,Gibson Dam Weather Station
+GDMM,PC,M,"PRECIP, CUMMULATIVE (INCHES OF WATER) (20""FB NWS)",Gibson Dam Weather Station
+HAY,AF,P,Reservoir Storage - Acre-Feet,"Haystack Reservoir near Culver, OR"
+HAY,CH,P,Canal Stage - Feet,"Haystack Reservoir near Culver, OR"
+HAY,FB,P,Forebay Elevation - Feet,"Haystack Reservoir near Culver, OR"
+HAY,OB,P,Air Temperature - Deg. F,"Haystack Reservoir near Culver, OR"
+HAY,PC,P,Precip,"Haystack Reservoir near Culver, OR"
+HAY,Q,P,Discharge - CFS,"Haystack Reservoir near Culver, OR"
+HGH,AF,M,Reservoir Storage - Acre-Feet,"Hungry Horse Reservoir near Hungry Horse, MT"
+HGH,FB,M,Forebay Elevation - Feet,"Hungry Horse Reservoir near Hungry Horse, MT"
+HGH,GH,M,Gauge Height - Feet,"Hungry Horse Reservoir near Hungry Horse, MT"
+HGHM,GH,M,Gauge Height - Feet,S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
+HGHM,Q,M,Discharge - CFS,S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
+HGH,Q,M,Discharge - CFS,"Hungry Horse Reservoir near Hungry Horse, MT"
+HGWM,OB,M,Air Temperature - Deg. F,"Hungry Horse Dam Weather Station, MT"
+HGWM,PC,M,"PRECIP, CUMMULATIVE, (INCHES OF WATER) (20""FP NWS)","Hungry Horse Dam Weather Station, MT"
+HPCO,AF,P,Reservoir Storage - AF,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPCO,CH,P,Canal Stage - Feet,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPCO,FB,P,Keene Creek Reservoir Forebay Elevation - Feet,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPCO,OB,P,Air Temperature - Deg. F,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPCO,QC,P,Danal discharge - cfs,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPCO,Q,P,Spillway Discharge to Keene Creek - CFS,"Howard Prairie Delivery Canal & Keene Creek Dam, OR"
+HPD,AF,P,Reservoir Storage - Acre-Feet,"Howard Prairie Lake and Dam near Ashland, OR"
+HPD,CH,P,Canal Gauge Height (feet),"Howard Prairie Lake and Dam near Ashland, OR"
+HPD,FB,P,Forebay Elevation - Feet,"Howard Prairie Lake and Dam near Ashland, OR"
+HPD,OB,P,Air Temperature - Deg. F,"Howard Prairie Lake and Dam near Ashland, OR"
+HPD,QC,P,Canal Discharge - cfs (flume sensor),"Howard Prairie Lake and Dam near Ashland, OR"
+HPD,Q,P,Spillway Discharge to Jenny Creek - CFS,"Howard Prairie Lake and Dam near Ashland, OR"
+HPWO,OB,P,Air Temperature - Deg. F,"Howard Prairie Dam Weather Station, OR"
+HPWO,PC,P,"Precipitation, Cumulative (Inches of Water) (TB)","Howard Prairie Dam Weather Station, OR"
+HYA,AF,P,Reservoir Storage - Acre-Feet,"Hyatt Dam and Reservoir near Ashland, OR"
+HYA,FB,P,Forebay Elevation - Feet,"Hyatt Dam and Reservoir near Ashland, OR"
+HYA,GH,P,Gauge Height - Feet,"Hyatt Dam and Reservoir near Ashland, OR"
+HYA,OB,P,Air Temperature - Deg. F,"Hyatt Dam and Reservoir near Ashland, OR"
+HYA,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER) (12"" Belfort)","Hyatt Dam and Reservoir near Ashland, OR"
+HYA,Q,P,"Discharge, Outlet works - cfs","Hyatt Dam and Reservoir near Ashland, OR"
+KAC,AF,P,Reservoir Storage - Acre-Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,AF,P,Reservoir Storage - Acre-Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,FB,P,Forebay Elevation - Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,FB,P,Forebay Elevation - Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,GH,P,Gauge Height - Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,GH,P,Gauge Height - Feet,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,Q,P,Discharge - CFS,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KAC,Q,P,Discharge - CFS,"KACHESS RESERVOIR,RIVER AND WEATHER STATION"
+KEE,AF,P,Reservoir Storage - Acre-Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,AF,P,Reservoir Storage - Acre-Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,FB,P,Forebay Elevation - Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,FB,P,Forebay Elevation - Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,GH,P,Gauge Height - Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,GH,P,Gauge Height - Feet,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,OB,P,Air Temperature - Deg. F,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,OB,P,Air Temperature - Deg. F,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)",KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)",KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,Q,P,Discharge - CFS,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE,Q,P,Discharge - CFS,KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KTBI,PP,M,"PRECIP, PP",Kettle Butte
+LUC,QU,M,Flow-cfs,
+MILI,QT,M,Total Flow,
+MNTI,PP,M,"PRECIP, PP",Monteview
+OCHO,QU,P,Discharge - CFS OCHOCO INFLOW,
+OCH,QT,P,Discharge - CFS OCHOCO OUTFLOW,
+OWCO,QJ,M,Flow Canal,
+OWY,QU,M,Inflow,
+RIM,AF,P,Reservoir Storage - Acre-Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,AF,P,Reservoir Storage - Acre-Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,FB,P,Forebay Elevation - Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,FB,P,Forebay Elevation - Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,GH,P,Gauge Height - Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,GH,P,Gauge Height - Feet,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,OB,P,Air Temperature - Deg. F,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,OB,P,Air Temperature - Deg. F,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER)","RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,Q,P,Discharge - CFS,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+RIM,Q,P,Discharge - CFS,"RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION"
+SELM,OB,M,Air Temperature - Deg. F,Seeley Lake Ranger Station
+SELM,PC,M,"PRECIP, CUMMULATIVE (INCHES OF WATER) (20""FP NWS)",Seeley Lake Ranger Station
+SUMM,OB,M,Air Temperature - Deg. F,"Summit, MT"
+SUMM,PC,M,"PRECIP, CUMMULATIVE, (INCHES OF WATER) (20""FP NWS)","Summit, MT"
+SWLM,OB,M,Air Temperature - Deg. F,Swan Lake
+SWLM,PC,M,"PRECIP, CUMMULATIVE, (INCHES OF WATER) (20""FP NWS)",Swan Lake
+WGLM,OB,M,Air Temperature - Deg. F,"West Glacier, MT"
+WGLM,PC,M,"PRECIP, CUMMULATIVE, (INCHES OF WATER) (20""FP NWS)","West Glacier, MT"
+WIC,AF,P,Reservoir Storage - Acre-Feet,"Wickiup Reservoir near LaPine, OR"
+WIC,FB,P,Forebay Elevation - Feet,"Wickiup Reservoir near LaPine, OR"
+WICO,GH,P,Gage Height - Feet,"Deschutes River below Wickiup Res., OR"
+WICO,Q,P,Discharge - CFS,"Deschutes River below Wickiup Res., OR"
+WIWO,OB,P,Air Temperature - Deg. F,"Wickiup Weather Station, OR"
+WIWO,PC,P,"PRECIP, CUMULATIVE (INCHES OF WATER) (12""Belfort)","Wickiup Weather Station, OR"
