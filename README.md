@@ -12,5 +12,8 @@ Need to define log and output directories and change some global vars accordingl
 
 Usage: 
 - default args:   python get_usbr_shef.py --locid all --duration realtime --back 3
-- daily call:     python get_usbr_shef.py --duration daily  <- minimalist, given default args are all and 3 
+- daily call:     python get_usbr_shef.py --duration daily  <- minimalist, given default args are 'all' and '3' (days for daily call) 
 - station call:   python get_usbr_shef.py --locid LUCI1 --duration realtime --back 24
+
+Todo:
+- [ ] more robust parsing for post_control.c5, but would like to check with how this list is generated with USBR, USACE, and BCHydro
