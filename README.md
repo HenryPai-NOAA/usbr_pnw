@@ -2,9 +2,9 @@
 Web scraper for usbr hydromet data
 
 Description:
-Makes multiple location calls, greatly speeding up downloads (20+ min vs. sub min)
+Makes multiple location calls, greatly speeding up downloads (20+ min vs. sub min).  Can also perform single station calls (slower)
 
-Last update (2024-12-25):
+Last update (2024-12-26):
 - edited request header moved to config file
 - parsing post_control.c5 file, but need to be careful if header lines changes number (skips 31 lines)
 
