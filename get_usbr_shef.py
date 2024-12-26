@@ -297,16 +297,27 @@ def write_output(df, dur_str, utc_now):
         logging.info('usbr scraping complete with output to: ' + final_out_fullfn)
         logging.info('equivalent final output found in last file: ' + last_fullfn)
 
+def parse_postcontrol():
+    with open(os.path.join(meta_dir, post_control_fn)) as f:
+        partner_id_li = []
+        nws_id_li = []
+        for line in f:
+            if line[0] != '#': # skips over RNTW1?
+                line_split_li = line.strip().split()
+                if len(line_split_li) >= 3:
+                    partner_id_li.append(line_split_li[1])
+                    nws_id_li.append(line_split_li[2])
+
+    return_df = pd.DataFrame({'partner_id': partner_id_li,
+                              'nws_id' : nws_id_li})
+    return(return_df)
+
 def main():
     utc_now = datetime.now(timezone.utc)
     arg_vals = parse_args()
 
     #map_df = pd.read_csv(os.path.join(meta_dir, post_control_fn))
-    post_ctrl_df =  (pd.read_csv(os.path.join(meta_dir, post_control_fn), 
-                                 skiprows=31,
-                                 header=None, sep='\s+',
-                                 names=['tz','partner_id','nws_id','exclude1','exclude2','exclude3']))
-    map_df = post_ctrl_df.copy()[['partner_id', 'nws_id']]
+    map_df = parse_postcontrol()
 
     if arg_vals.duration == 'realtime':
         dur_id = 'I'
