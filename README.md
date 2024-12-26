@@ -6,7 +6,7 @@ Makes multiple location calls, greatly speeding up downloads (20+ min vs. sub mi
 
 Last update (2024-12-26):
 - edited request header moved to config file
-- parsing post_control.c5 file, but need to be careful if header lines changes number (skips 31 lines)
+- parsing post_control.c5 file instead of csv
 
 Steps:
 - Need to define log and output directories and change some global vars accordingly.
