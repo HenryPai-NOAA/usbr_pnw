@@ -22,4 +22,4 @@ References:
 - shef manual: https://www.weather.gov/media/mdl/SHEF_CodeManual_5July2012.pdf
 
 Todo:
-- [ ] more robust parsing for post_control.c5, but would like to check with how this list is generated with USBR, USACE, and BCHydro
+- [x] more robust parsing for post_control.c5, but would like to check with how this list is generated with USBR, USACE, and BCHydro
