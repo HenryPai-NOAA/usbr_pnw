@@ -10,7 +10,7 @@ Last update (2024-12-26):
 
 Steps:
 - Need to define log and output directories and change some global vars accordingly.
-- Make config.yaml file with request header info by adding line in bold, **user_agent : '[user info to pass]'**
+- Make config.yaml file with request header info by adding line (copy & paste bold, edit bracket info to be more descriptive): **user_agent : '[user info to pass]'**
 
 
 Usage: 
