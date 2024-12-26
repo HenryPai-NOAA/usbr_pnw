@@ -2,7 +2,7 @@
 Web scraper for usbr hydromet data
 
 Description:
-Makes multiple location calls, greatly speeding up downloads (20+ min vs. sub min).  Can also perform single station calls (slower).  Reminder units are defined in the shef manual [1], table 1, pgs 4-5 (pgs 75-76 in pdf) 
+Makes multiple location calls, greatly speeding up downloads (20+ min vs. sub min).  Can also perform single station calls (slower).  Reminder, units are defined in the shef manual [1], table 1, pgs 4-5 (pgs 75-76 in pdf) 
 
 Last update (2024-12-26):
 - edited request header moved to config file
