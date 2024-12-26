@@ -32,7 +32,7 @@ product_id = 'usbrWEB'
 #max_call_num = 95 # under 1000 chars, for combined usbr id + pe
 max_call_num = 400 # under 1000 chars, for just usbr ids
 
-# from shef manual :https://www.weather.gov/media/mdl/SHEF_CodeManual_5July2012.pdf
+# from shef manual: https://www.weather.gov/media/mdl/SHEF_CodeManual_5July2012.pdf
 # table 1, pg 4-5 (pg 75-76 in pdf)
 div1000_pes = ["LS","QR","QI","QD","QT","QU","QP"] 
 
