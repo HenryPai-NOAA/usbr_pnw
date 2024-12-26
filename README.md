@@ -8,7 +8,10 @@ Last update (2024-12-26):
 - edited request header moved to config file
 - parsing post_control.c5 file, but need to be careful if header lines changes number (skips 31 lines)
 
-Need to define log and output directories and change some global vars accordingly.
+Steps:
+- Need to define log and output directories and change some global vars accordingly.
+- Make config.yaml file with request header info by adding line in bold, **user_agent : '[user info to pass]'**
+
 
 Usage: 
 - default args:   python get_usbr_shef.py --locid all --duration realtime --back 3
